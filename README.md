@@ -1,7 +1,7 @@
 #gulp-browser-notification
 > Show notifications in your browser
 
-[[https://github.com/juanfran/gulp-browser-notification/blob/master/notification.png]]
+![notification](https://cloud.githubusercontent.com/assets/905195/21237935/4d7a6972-c301-11e6-8c06-024e221e9bf1.png)
 
 ## Install
 
