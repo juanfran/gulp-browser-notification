@@ -1,0 +1,29 @@
+{
+  "name": "gulp-browser-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfran/gulp-browser-notification.git"
+  },
+  "author": "Juanfran Alcántara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfran/gulp-browser-notification/issues"
+  },
+  "homepage": "https://github.com/juanfran/gulp-browser-notification#readme",
+  "dependencies": {
+    "connect-inject": "^0.4.0",
+    "event-stream": "^3.3.4",
+    "ws": "^1.1.1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "browser notifications",
+    "notification"
+  ]
+}
