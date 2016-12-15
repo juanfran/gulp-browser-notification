@@ -1,10 +1,12 @@
 #gulp-browser-notification
 > Show notifications in your browser
 
+[[https://github.com/juanfran/gulp-browser-notification/blob/master/notification.png]]
+
 ## Install
 
 ```shell
-npm install gulp-browser-notification --save-dev
+npm install --save-dev gulp-browser-notification
 ```
 
 ## Usage
@@ -15,7 +17,7 @@ npm install gulp-browser-notification --save-dev
 var browserNotification = require('gulp-browser-notification');
 ```
 
-### Addinig middleware
+### Addinig connect/express middleware
 
 ```js
 app.use(browserNotification.connect());
